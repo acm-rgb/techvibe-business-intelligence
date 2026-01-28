@@ -15,9 +15,8 @@ O projeto simula um cenário real de consultoria, cobrindo os três pilares fund
 ## 📱 Módulo 1: Gestão Comercial & Vendas
 Focado em maximizar a receita e identificar padrões de consumo. Permite ao gestor monitorar o desempenho por vendedor, categoria de produto e geografia.
 
-![Print do Dashboard de Vendas](Analise_Financeira.jpg)
 ![Print do Dashboard de Vendas](Desempenho_Trimestral.jpg)
-![Print do Dashboard de Vendas](Analise_RH.jpg)
+
 
 ### 🔍 Principais Insights & KPIs:
 * **Faturamento Total e Volume de Vendas:** Visão macro do desempenho trimestral.
@@ -30,8 +29,8 @@ Focado em maximizar a receita e identificar padrões de consumo. Permite ao gest
 ## 💰 Módulo 2: Visão Financeira (DRE Gerencial)
 Focado na saúde financeira da empresa. Diferente do módulo de vendas, este painel cruza receitas com custos fixos e variáveis para revelar o **Lucro Líquido Real**.
 
-![Print do Dashboard Financeiro](caminho-da-sua-imagem-financeiro.png)
-*(Substitua esta linha pelo print do seu dashboard Financeiro)*
+![Print do Dashboard de Vendas](Analise_Financeira.jpg)
+
 
 ### 🔍 Principais Insights & KPIs:
 * **Margem Líquida Real:** Monitoramento da eficiência do negócio (Resultado: ~11%).
@@ -43,8 +42,7 @@ Focado na saúde financeira da empresa. Diferente do módulo de vendas, este pai
 ## 👥 Módulo 3: People Analytics (RH)
 Focado na retenção de talentos e diversidade. Monitora o ciclo de vida do colaborador na empresa.
 
-![Print do Dashboard de RH](caminho-da-sua-imagem-rh.png)
-*(Substitua esta linha pelo print do seu dashboard de RH)*
+![Print do Dashboard RH](Analise_RH.jpg)
 
 ### 🔍 Principais Insights & KPIs:
 * **Headcount Ativo:** Monitoramento em tempo real do quadro de funcionários.
