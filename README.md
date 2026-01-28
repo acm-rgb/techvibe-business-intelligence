@@ -76,5 +76,5 @@ Focado na retenção de talentos e diversidade. Monitora o ciclo de vida do cola
 ### 📬 Contato
 Gostou do projeto? Estou disponível para projetos de consultoria e análise de dados.
 
-* **LinkedIn:** [Seu Link Aqui]
-* **E-mail:** [Seu Email Aqui]
+* **LinkedIn:** https://www.linkedin.com/in/andre-de-campos-moreira-b80770241/
+* **E-mail:** andrecm.pessoal@gmail.com
