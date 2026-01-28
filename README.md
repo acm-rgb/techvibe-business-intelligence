@@ -17,7 +17,6 @@ Focado em maximizar a receita e identificar padrões de consumo. Permite ao gest
 
 ![Print do Dashboard de Vendas](Analise%20Financeira.jpg)
 ![Print do Dashboard de Vendas](Desempenho%20FTrimestral.jpg)
-![Print do Dashboard de Vendas](Analise%20RH.jpg)
 
 ### 🔍 Principais Insights & KPIs:
 * **Faturamento Total e Volume de Vendas:** Visão macro do desempenho trimestral.
