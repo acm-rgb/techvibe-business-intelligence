@@ -15,8 +15,9 @@ O projeto simula um cenário real de consultoria, cobrindo os três pilares fund
 ## 📱 Módulo 1: Gestão Comercial & Vendas
 Focado em maximizar a receita e identificar padrões de consumo. Permite ao gestor monitorar o desempenho por vendedor, categoria de produto e geografia.
 
-![Print do Dashboard de Vendas](Analise%20Financeira.jpg)
-![Print do Dashboard de Vendas](Desempenho%20FTrimestral.jpg)
+![Print do Dashboard de Vendas](Analise_Financeira.jpg)
+![Print do Dashboard de Vendas](Desempenho_Trimestral.jpg)
+![Print do Dashboard de Vendas](Analise_RH.jpg)
 
 ### 🔍 Principais Insights & KPIs:
 * **Faturamento Total e Volume de Vendas:** Visão macro do desempenho trimestral.
